@@ -1,20 +1,20 @@
-##dating-app-code.zip
+dating-app-code.zip
 
-download the code as a zipped version
+-download the code as a zipped version
 
-##Install Node Modules
+Install Node Modules
 
-go to the specified folder where the file has been downloaded i.e., cd dating-app-code
+-go to the specified folder where the file has been downloaded i.e., cd dating-app-code
 
-Unzip the code
+-Unzip the code
 
-##npm i
+npm i
 
-Install the node modules using npm i
+-Install the node modules using npm i
 
-##npm start
+npm start
 
-once the node modules are installed, start the project using npm start, You'll be automatically redirected to localhost:3000
+-once the node modules are installed, start the project using npm start, You'll be automatically redirected to localhost:3000
 
 commands to be run in order once you get into the folder from the terminal
 
