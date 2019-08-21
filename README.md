@@ -10,7 +10,7 @@ Install Node Modules
 
 npm i
 
--Install the node modules using npm i
+-run npm i
 
 npm start
 
