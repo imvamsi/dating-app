@@ -1,0 +1,12 @@
+#select-button {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.yesButton {
+  background: #ff6f00;
+}
+
+.container {
+  max-width: 700px !important;
+}
