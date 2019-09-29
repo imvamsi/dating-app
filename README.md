@@ -1,23 +1,17 @@
-dating-app-code.zip
+# Dating App
 
--download the code as a zipped version
+> lookalike tinder app made for connectngo.
 
-Install Node Modules
+#### Setup Instructions
 
--go to the specified folder where the file has been downloaded i.e., cd dating-app-code
+##### Download the zipped version and using the terminal Cd into the folder
 
--Unzip the code
+###### Run the following commands
 
-npm i
-
--run npm i
-
-npm start
-
--once the node modules are installed, start the project using npm start, You'll be automatically redirected to localhost:3000
-
-commands to be run in order once you get into the folder from the terminal
-
-1. npm i
-2. npm start
+```bash
+    yarn install
+    
+    yarn start
+```
+> The project will be up in localhost:3000
 
